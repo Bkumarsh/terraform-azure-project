@@ -5,7 +5,7 @@ resource "azurerm_resource_group" "rg" {
 }
 
 resource "azurerm_resource_group" "rg" {
-  name = "bhakua_rg2"
+  name = "bhakua_rg3"
   location = "eastus"
   
 }
